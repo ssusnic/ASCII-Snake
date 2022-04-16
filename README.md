@@ -8,13 +8,11 @@ Your task is to move the snake with the cursor keys, and eat as much food as pos
 
 To make this game, I used my own game framework called **Terminator**. In this way, the final source code is simpler and easier to understand, as the framework already provides a set of specific functions, needed to develop terminal based games in the Windows console.
 
-The game and the Terminator library are built with the **g++ compiler** using the **MinGW** development tools, so you should do the same if you want to make an executable file.
+The game and the Terminator library are primarily built with the **g++ compiler** using the **MinGW** development tools, so you should do the same if you want to make an executable file.
 
 But if you rather prefer Visual Studio than MinGW to compile your C++ projects, then lucky you! 
 
-The release section of this repo contains a Snake.zip file, which includes both the MinGW project and Visual Studio solution of the Snake game.
-
-In addition, this zip file also contains an already generated executable file of the Visual Studio solution, so you can instantly start playing the game without building it.
+The release section of this repo contains a **SnakeVS.zip** file with the **Visual Studio solution** of the Snake game, including the source code and an already generated executable file.
 
 
 ## Building the game
@@ -34,7 +32,7 @@ In addition, this zip file also contains an already generated executable file of
     ```make -d``` to build dynamically  
     ```make -s``` to build statically  
 	
-  - To build the game with the Visual Studio, check the release section and download the Snake.zip file!
+  - To build the game with the Visual Studio, check the release section and download the SnakeVS.zip file!
 
 
 ## License notice
