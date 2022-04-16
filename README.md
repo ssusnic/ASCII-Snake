@@ -4,7 +4,7 @@ This repository contains my terminal based **Snake** game written in **C++** for
 
 Your task is to move the snake with the cursor keys, and eat as much food as possible before you die of insatiable greed. The snake earns points with each item eaten, but it also gets longer as a result of enormous gluttony. The game is over when the snake runs into itself, or hits the border walls.  
 
-[![Watch Video!](https://img.youtube.com/vi/gHzrvK6coAM/0.jpg)](http://www.youtube.com/watch?v=ivxeUwFvjow "Watch Video!")
+[![Watch Video!](https://github.com/ssusnic/ASCII-Snake/raw/main/thumb_snake_720x480.png)](https://www.youtube.com/watch?v=ivxeUwFvjow "Watch Video!")
 
 To make this game, I used my own game framework called **Terminator**. In this way, the final source code is simpler and easier to understand, as the framework already provides a set of specific functions, needed to develop terminal based games in the Windows console.
 
