@@ -32,7 +32,7 @@ In addition, this zip file also contains an already generated executable file of
     ```make -d``` to build dynamically  
     ```make -s``` to build statically  
 	
-To build the game with the Visual Studio, check the release section and download the Snake.zip file!
+  - To build the game with the Visual Studio, check the release section and download the Snake.zip file!
 
 
 ## License notice
