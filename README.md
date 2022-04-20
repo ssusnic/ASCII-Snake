@@ -29,7 +29,7 @@ The framework is consisted of the following files:
   - ```Terminator.lib``` - static library
   - ```Terminator.dll``` - dynamic library
 
-Since the binary files generated with different C++ compilers are in general not link compatible, there are special versions of the Terminator framework for using with MinGW and Visual Studio.
+Since the binary files generated with different C++ compilers are in general not link compatible, there are special versions of the Terminator framework generated for using with MinGW and Visual Studio.
 
 
 ## Building the game with MinGW
