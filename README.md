@@ -1,6 +1,7 @@
 # ASCII Snake for Windows Console
 
 This repository contains the source code of my terminal based **Snake** game written in **C++** for the **Windows Command Line**.  
+
 The game is primarily developed with **MinGW** development tools using the **GCC** compiler and is available in the **Snake_MinGW** folder.
 
 But if you rather prefer Visual Studio than MinGW to compile your C++ projects, then lucky you!  
